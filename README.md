@@ -1,2 +1,2 @@
 # computersnaweb
-welcome
+https://trykrisna.github.io/computersnaweb/
